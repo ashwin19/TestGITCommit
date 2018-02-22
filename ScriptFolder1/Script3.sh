@@ -1,0 +1,1 @@
+echo 'Testing executable Script3.sh'
